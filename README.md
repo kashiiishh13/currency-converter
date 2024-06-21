@@ -1,2 +1,2 @@
-# angular-project
+# currency-converter
 currency converter in angular
